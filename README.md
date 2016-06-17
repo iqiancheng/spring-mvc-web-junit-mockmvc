@@ -1,2 +1,2 @@
 # spring-boot-testng-mockmvc
-TestNG
+Junit Test
