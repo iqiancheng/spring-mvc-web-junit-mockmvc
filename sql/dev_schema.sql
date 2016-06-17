@@ -12,6 +12,9 @@ File Encoding         : 65001
 
 Date: 2015-04-19 23:07:54
 */
+-- CREATE DATABASE `dev_schema` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci  ;
+-- USE dev_schema;
+
 
 SET FOREIGN_KEY_CHECKS=0;
 
